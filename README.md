@@ -4,3 +4,5 @@ I'm a Site Reliability Engineer, Mentor.
 👯 I’m looking to collaborate with other content creators
 ⚡ Fun fact: I love to listen to music, travel and watch movies/series.
 
+✨Connect with me:
+LinkedIn | 🤗
