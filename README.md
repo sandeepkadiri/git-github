@@ -5,4 +5,4 @@ I'm a Site Reliability Engineer, Mentor.
 ⚡ Fun fact: I love to listen to music, travel and watch movies/series.
 
 ✨Connect with me:
-LinkedIn | 🤗
+LinkedIn |www.linkedin.com/in/kadirisandeepkumar/
